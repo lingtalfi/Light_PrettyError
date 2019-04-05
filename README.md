@@ -5,6 +5,7 @@ Light_PrettyError
 
 
 An error message handler for the [Light](https://github.com/lingtalfi/Light) framework.
+This is a [Light framework plugin](https://github.com/lingtalfi/Light/blob/master/personal/mydoc/pages/plugin.md).
 
 
 This is part of the [universe framework](https://github.com/karayabin/universe-snapshot).
