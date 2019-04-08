@@ -51,6 +51,10 @@ prettyDebugPage:
 History Log
 =============
     
+- 1.1.0 -- 2019-04-08
+
+    - change PrettyDebugPageUtil->print method to renderPage
+    
 - 1.0.0 -- 2019-04-05
 
     - initial commit
