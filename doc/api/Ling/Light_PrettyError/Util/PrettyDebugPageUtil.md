@@ -4,7 +4,7 @@
 
 The PrettyDebugPageUtil class
 ================
-2019-04-05 --> 2019-04-08
+2019-04-05 --> 2019-04-09
 
 
 
@@ -50,3 +50,6 @@ Location
 Ling\Light_PrettyError\Util\PrettyDebugPageUtil
 
 
+SeeAlso
+==============
+Previous class: [PrettyErrorInitializer](https://github.com/lingtalfi/Light_PrettyError/blob/master/doc/api/Ling/Light_PrettyError/Initializer/PrettyErrorInitializer.md)<br>
