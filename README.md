@@ -66,7 +66,7 @@ The **initializer** service is provided by the [Light_Initializer planet](https:
 
 
 The [PrettyErrorInitializer](https://github.com/lingtalfi/Light_PrettyError/blob/master/doc/api/Ling/Light_PrettyError/Initializer/PrettyErrorInitializer.md) class will
-automatically register **error handlers** for the following error types:
+automatically register [error handlers](https://github.com/lingtalfi/Light/blob/master/doc/api/Ling/Light/Core/Light.md#error-handlers) for the following error types:
 
 - 404
 
