@@ -4,7 +4,7 @@
 
 The PrettyErrorInitializer class
 ================
-2019-04-05 --> 2019-04-09
+2019-04-05 --> 2019-07-16
 
 
 
@@ -25,7 +25,7 @@ Class synopsis
 class <span class="pl-k">PrettyErrorInitializer</span> implements [LightInitializerInterface](https://github.com/lingtalfi/Light_Initializer/blob/master/doc/api/Ling/Light_Initializer/Initializer/LightInitializerInterface.md) {
 
 - Methods
-    - public [initialize](https://github.com/lingtalfi/Light_PrettyError/blob/master/doc/api/Ling/Light_PrettyError/Initializer/PrettyErrorInitializer/initialize.md)(Ling\Light\Core\Light $light, Ling\Light\Http\HttpRequestInterface $httpRequest) : mixed
+    - public [initialize](https://github.com/lingtalfi/Light_PrettyError/blob/master/doc/api/Ling/Light_PrettyError/Initializer/PrettyErrorInitializer/initialize.md)(Ling\Light\Core\Light $light, Ling\Light\Http\HttpRequestInterface $httpRequest, Ling\Light\Http\HttpResponseInterface &$response = null) : mixed
 
 }
 

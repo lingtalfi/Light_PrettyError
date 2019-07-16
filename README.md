@@ -5,7 +5,7 @@ Light_PrettyError
 
 
 An error message handler for the [Light](https://github.com/lingtalfi/Light) framework.
-This is a [Light framework plugin](https://github.com/lingtalfi/Light/blob/master/personal/mydoc/pages/plugin.md).
+This is a [Light framework plugin](https://github.com/lingtalfi/Light/blob/master/doc/pages/plugin.md).
 
 
 This is part of the [universe framework](https://github.com/karayabin/universe-snapshot).
@@ -62,7 +62,7 @@ Basically, those services will improve the visual appearance for:
 - the 404 error page (error of type 404)
 
 
-The **initializer** service is provided by the [Light_Initializer planet](https://github.com/lingtalfi/Light_Initializer), on which this planet depends.
+The **initializer** service is provided by the [Light_Initializer planet](https://github.com/lingtalfi/Light_Initializer), which this planet depends on.
 
 
 The [PrettyErrorInitializer](https://github.com/lingtalfi/Light_PrettyError/blob/master/doc/api/Ling/Light_PrettyError/Initializer/PrettyErrorInitializer.md) class will
@@ -80,6 +80,10 @@ And will basically provide aesthetically pleasing templates for those errors.
 
 History Log
 =============
+    
+- 1.3.0 -- 2019-07-17
+
+    - update PrettyErrorInitializer class to adapt the new LightInitializerInterface
     
 - 1.2.0 -- 2019-04-09
 
