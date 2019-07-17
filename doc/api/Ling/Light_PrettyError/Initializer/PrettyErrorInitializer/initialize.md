@@ -16,7 +16,7 @@ Description
 ================
 
 
-public [PrettyErrorInitializer::initialize](https://github.com/lingtalfi/Light_PrettyError/blob/master/doc/api/Ling/Light_PrettyError/Initializer/PrettyErrorInitializer/initialize.md)(Ling\Light\Core\Light $light, Ling\Light\Http\HttpRequestInterface $httpRequest, Ling\Light\Http\HttpResponseInterface &$response = null) : mixed
+public [PrettyErrorInitializer::initialize](https://github.com/lingtalfi/Light_PrettyError/blob/master/doc/api/Ling/Light_PrettyError/Initializer/PrettyErrorInitializer/initialize.md)(Ling\Light\Core\Light $light, Ling\Light\Http\HttpRequestInterface $httpRequest) : mixed
 
 
 
@@ -35,10 +35,6 @@ Parameters
     
 
 - httpRequest
-
-    
-
-- response
 
     
 

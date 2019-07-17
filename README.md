@@ -81,6 +81,10 @@ And will basically provide aesthetically pleasing templates for those errors.
 History Log
 =============
     
+- 1.4.0 -- 2019-07-17
+
+    - update PrettyErrorInitializer class to adapt the new LightInitializerInterface
+    
 - 1.3.0 -- 2019-07-17
 
     - update PrettyErrorInitializer class to adapt the new LightInitializerInterface

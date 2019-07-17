@@ -6,7 +6,6 @@ namespace Ling\Light_PrettyError\Initializer;
 
 use Ling\Light\Core\Light;
 use Ling\Light\Http\HttpRequestInterface;
-use Ling\Light\Http\HttpResponseInterface;
 use Ling\Light_Initializer\Initializer\LightInitializerInterface;
 use Ling\Light_PrettyError\Exception\LightPrettyErrorException;
 use Ling\UniversalTemplateEngine\UniversalTemplateEngineInterface;
@@ -22,7 +21,7 @@ class PrettyErrorInitializer implements LightInitializerInterface
     /**
      * @implementation
      */
-    public function initialize(Light $light, HttpRequestInterface $httpRequest, HttpResponseInterface &$response = null)
+    public function initialize(Light $light, HttpRequestInterface $httpRequest)
     {
         $light->registerErrorHandler(function ($errorType, \Exception $e, &$response) use ($light) {
 
