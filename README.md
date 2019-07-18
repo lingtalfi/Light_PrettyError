@@ -81,6 +81,10 @@ And will basically provide aesthetically pleasing templates for those errors.
 History Log
 =============
     
+- 1.4.1 -- 2019-07-18
+
+    - update docTools documentation, add links to source code for classes and methods
+        
 - 1.4.0 -- 2019-07-17
 
     - update PrettyErrorInitializer class to adapt the new LightInitializerInterface
