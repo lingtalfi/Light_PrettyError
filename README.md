@@ -86,6 +86,10 @@ History Log
 =============
     
 
+- 1.5.1 -- 2019-12-12
+
+    - fix LightPrettyErrorService->onLightExceptionCaught calling non-existing service template
+    
 - 1.5.0 -- 2019-11-11
 
     - renamed service to pretty_error

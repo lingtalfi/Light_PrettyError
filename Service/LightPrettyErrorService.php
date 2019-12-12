@@ -53,8 +53,6 @@ class LightPrettyErrorService
      */
     public function onLightExceptionCaught(LightEvent $event, string $eventName)
     {
-
-
         $exception = $event->getVar('exception', null, true);
 
         $container = $event->getContainer();
@@ -71,7 +69,7 @@ class LightPrettyErrorService
                 /**
                  * @var $templateEngine UniversalTemplateEngineInterface
                  */
-                $templateEngine = $container->get("template");
+                $templateEngine = $container->get("zephyr_template");
                 $res = $templateEngine->render("templates/Light_PrettyError/error_pages/404.html", []);
                 if (false !== $res) {
                     $event->setVar('httpResponse', $res);
