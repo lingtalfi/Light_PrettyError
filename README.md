@@ -86,6 +86,10 @@ History Log
 =============
     
 
+- 1.5.2 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.5.1 -- 2019-12-12
 
     - fix LightPrettyErrorService->onLightExceptionCaught calling non-existing service template
