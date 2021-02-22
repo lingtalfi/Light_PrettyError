@@ -1,6 +1,6 @@
 Light_PrettyError
 ===========
-2019-04-05
+2019-04-05 -> 2021-02-22
 
 
 
@@ -86,9 +86,13 @@ History Log
 =============
     
 
+- 1.5.4 -- 2021-02-22
+
+   - adapt to new light universe assets organization
+
 - 1.5.3 -- 2020-12-08
 
-    - Fix lpi-deps not using natsort.
+    - Fix lpi-deps not using natsort
 
 - 1.5.2 -- 2020-12-04
 
