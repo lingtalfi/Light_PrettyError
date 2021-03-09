@@ -1,6 +1,6 @@
 Light_PrettyError
 ===========
-2019-04-05 -> 2021-03-05
+2019-04-05 -> 2021-03-09
 
 
 
@@ -90,6 +90,10 @@ And will basically provide aesthetically pleasing templates for those errors.
 History Log
 =============
     
+
+- 1.5.6 -- 2021-03-09
+
+    - rename templates dir to Ling.Light_PrettyError
 
 - 1.5.5 -- 2021-03-05
 

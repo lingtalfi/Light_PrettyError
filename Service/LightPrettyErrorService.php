@@ -70,7 +70,7 @@ class LightPrettyErrorService
                  * @var $templateEngine UniversalTemplateEngineInterface
                  */
                 $templateEngine = $container->get("zephyr_template");
-                $res = $templateEngine->render("templates/Light_PrettyError/error_pages/404.html", []);
+                $res = $templateEngine->render("templates/Ling.Light_PrettyError/error_pages/404.html", []);
                 if (false !== $res) {
                     $event->setVar('httpResponse', $res);
 
