@@ -1,6 +1,6 @@
 Light_PrettyError
 ===========
-2019-04-05 -> 2021-03-15
+2019-04-05 -> 2021-03-18
 
 
 
@@ -51,18 +51,6 @@ pretty_error:
 
 
 
-# --------------------------------------
-# hooks
-# --------------------------------------
-$events.methods_collection:
-    -
-        method: registerListener
-        args:
-            event: Ling.Light.on_exception_caught
-            listener:
-                instance: @service(pretty_error)
-                callable_method: onLightExceptionCaught
-
 ```
 
 Basically, those services will improve the visual appearance for:
@@ -91,6 +79,10 @@ History Log
 =============
     
 
+- 1.5.8 -- 2021-03-18
+
+    - switch to Ling.Light_Events' open registration system
+  
 - 1.5.7 -- 2021-03-15
 
     - update planet to adapt Ling.Light:0.70.0
