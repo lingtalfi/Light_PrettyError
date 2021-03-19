@@ -1,6 +1,6 @@
 Light_PrettyError
 ===========
-2019-04-05 -> 2021-03-18
+2019-04-05 -> 2021-03-19
 
 
 
@@ -78,6 +78,10 @@ And will basically provide aesthetically pleasing templates for those errors.
 History Log
 =============
     
+
+- 1.5.9 -- 2021-03-19
+
+    - fix open events not in the "events" directory
 
 - 1.5.8 -- 2021-03-18
 
