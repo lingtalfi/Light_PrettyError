@@ -1,6 +1,6 @@
 Light_PrettyError
 ===========
-2019-04-05 -> 2021-03-19
+2019-04-05 -> 2021-03-22
 
 
 
@@ -79,6 +79,10 @@ History Log
 =============
     
 
+- 1.5.10 -- 2021-03-22
+
+    - adapt api to work with Ling.Light_Events:1.10.0
+  
 - 1.5.9 -- 2021-03-19
 
     - fix open events not in the "events" directory
