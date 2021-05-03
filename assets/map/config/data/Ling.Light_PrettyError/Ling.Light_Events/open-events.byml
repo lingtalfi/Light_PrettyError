@@ -1,2 +1,0 @@
-Ling.Light.on_exception_caught:
-    - @pretty_error->onLightExceptionCaught(data, event)

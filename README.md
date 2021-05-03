@@ -79,6 +79,10 @@ History Log
 =============
     
 
+- 1.5.11 -- 2021-05-03
+
+    - Update dependencies to Ling.Light_Events (pushed by SubscribersUtil)
+
 - 1.5.10 -- 2021-03-22
 
     - adapt api to work with Ling.Light_Events:1.10.0

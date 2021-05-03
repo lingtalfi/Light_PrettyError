@@ -1,5 +1,0 @@
-pretty_error:
-    instance: Ling\Light_PrettyError\Service\LightPrettyErrorService
-
-
-
