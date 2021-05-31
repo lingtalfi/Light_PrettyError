@@ -79,6 +79,10 @@ History Log
 =============
     
 
+- 1.5.15 -- 2021-05-31
+
+    - Removing trailing plus in lpi-deps file (to work with Light_PlanetInstaller:2.0.0 api
+
 - 1.5.14 -- 2021-05-31
 
     - update api to work with Light_PlanetInstaller 2.0.0
