@@ -1,6 +1,6 @@
 Light_PrettyError
 ===========
-2019-04-05 -> 2021-03-22
+2019-04-05 -> 2021-05-31
 
 
 
@@ -79,6 +79,10 @@ History Log
 =============
     
 
+- 1.5.14 -- 2021-05-31
+
+    - update api to work with Light_PlanetInstaller 2.0.0
+  
 - 1.5.13 -- 2021-05-03
 
     - Update dependencies to Ling.Light_Events (pushed by SubscribersUtil)
