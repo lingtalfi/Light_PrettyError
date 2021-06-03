@@ -1,6 +1,6 @@
 Light_PrettyError
 ===========
-2019-04-05 -> 2021-05-31
+2019-04-05 -> 2021-06-03
 
 
 
@@ -79,6 +79,10 @@ History Log
 =============
     
 
+- 1.5.16 -- 2021-06-03
+
+    - adapt api to work with Light_PlanetInstaller:2.0.4
+  
 - 1.5.15 -- 2021-05-31
 
     - Removing trailing plus in lpi-deps file (to work with Light_PlanetInstaller:2.0.0 api
