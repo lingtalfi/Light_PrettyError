@@ -4,7 +4,7 @@
 
 The LightPrettyErrorPlanetInstaller class
 ================
-2019-04-05 --> 2021-06-03
+2019-04-05 --> 2021-08-10
 
 
 
